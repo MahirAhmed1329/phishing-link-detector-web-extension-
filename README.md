@@ -1,1 +1,2 @@
-# phishing-link-detector-web-extension-
+# phishing-link-detector-web-extension
+This is the project code for a browser extension that scans phishing and harmfull links while the user is browsing a website. There are manual scan options like user can copy the URL and paste it to scan or when visiting a website, the extensions scans all the links that exist on current page. If the user hovers their mouse pointer over a link it will show the scan results for that specific link.
